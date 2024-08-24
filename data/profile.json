@@ -1,7 +1,7 @@
 {
   "name": "Eduarda Cavalcante",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Estagiária em C3C",
+  "photo": "https://github.com/eduardahey/js-developer-portfolio/blob/main/data/imgs/myphoto.jpeg",
+  "job": "Web e salesforce developer",
   "location": "Fortaleza - CE",
   "phone": "(85) 99631-6945",
   "email": "cavalcantemeds@gmail.com",
@@ -55,7 +55,7 @@
   ],
   "professionalExperience": [
     {
-      "name": "Estagiário web developer e salesforce developer",
+      "name": "Estagiário web developer e salesforce developer em C3C",
       "period": "2023 - até o momento",
       "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
     }
